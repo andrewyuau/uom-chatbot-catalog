@@ -1,7 +1,7 @@
 ---
 applications:
-- name: insurance-catalog
-  host: insurance-catalog
+- name: student-experience-catalog
+  host: student-experience-catalog
   memory: 64M
   services:
-  - insurance-db
+  - student-experience-db
